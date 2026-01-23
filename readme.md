@@ -1,59 +1,82 @@
-# 👋 Hi, I'm Matheus Braz
+👋 Hi, I'm Matheus Braz
 
-I'm a **React & React Native Developer** with experience building and maintaining real-world applications.  
-I have worked on production apps used by real users, mainly focusing on **frontend development**, bug fixing, and UI/UX improvements.
+I'm a Fullstack JavaScript/TypeScript Developer with professional experience building and maintaining real-world web and mobile applications.
 
-Currently looking for **remote opportunities** (junior → mid-level), especially involving **React or React Native**.
+I have strong experience with React and React Native, while also working on the backend using Node.js and Express, handling APIs, authentication, and database operations.
 
----
+Currently looking for remote opportunities (junior → mid-level) involving JavaScript/TypeScript, especially in React, React Native, and Node.js.
 
-## 🧠 About Me
+🧠 About Me
 
-- 💻 Frontend-focused developer with hands-on experience in **React** and **React Native**
-- 📱 React Native is my strongest area and where I have most real-world experience
-- 🔧 Experience working with large codebases and existing components
-- 🧩 Comfortable fixing bugs, improving components, and making UI behavior adjustments
-- 🌍 Experience collaborating with distributed teams through PR reviews and testing pipelines
-- 🚀 Basic backend knowledge using Node.js and Express
+💻 Fullstack developer working across frontend and backend using JavaScript & TypeScript
 
----
+⚛️ Strong experience with React and React Native, including production mobile apps used by real users
 
-## 🛠 Tech Stack
+🔗 Backend experience building and consuming REST APIs with Node.js and Express
 
-### Frontend
-- React
-- React Native
-- JavaScript (ES6+)
-- TypeScript
-- Next.js (basic experience)
-- HTML5 & CSS3
+🔐 Familiar with authentication flows (JWT) and CRUD-based systems
 
-### Mobile
-- React Native
-- React Navigation
-- API integration
-- Debugging and UI adjustments
+🧩 Comfortable working with large existing codebases, fixing bugs, and improving features
 
-### Backend (Basic)
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- CRUD operations
-- Prisma ORM
-- SQL databases (basic experience)
+🌍 Experience collaborating with distributed teams through pull requests, reviews, and testing pipelines
 
-### Tools & Workflow
-- Git & GitHub
-- Pull Requests & Code Reviews
-- Working with existing codebases
-- Debugging and bug fixing
+🚀 Focused on writing clean, maintainable code and improving overall application quality
 
----
+🛠 Tech Stack
+Frontend
 
-## 📫 Contact
+React
 
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/matheus-braz-240b52266/)
-- 🌍 Open to remote opportunities
+React Native
+
+JavaScript (ES6+)
+
+TypeScript
+
+Next.js (basic experience)
+
+HTML5 & CSS3
+
+Backend
+
+Node.js
+
+Express.js
+
+REST APIs
+
+JWT Authentication
+
+CRUD operations
+
+Prisma ORM
+
+SQL Databases (basic experience)
+
+Mobile
+
+React Native
+
+React Navigation
+
+API Integration
+
+Debugging & UI adjustments
+
+Tools & Workflow
+
+Git & GitHub
+
+Pull Requests & Code Reviews
+
+Working with existing codebases
+
+Debugging and bug fixing
+
+📫 Contact
+
+💼 LinkedIn: LinkedIn
+
+🌍 Open to remote opportunities
 
 Thanks for visiting my profile!
