@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://matheus-braz.vercel.app)
 
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-Immediately-2563EB?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Brazil_%E2%86%92_EU-7C3AED?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Brazil?style=for-the-badge)
 
 </div>
 
