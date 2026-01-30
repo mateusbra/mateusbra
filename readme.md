@@ -1,82 +1,88 @@
-👋 Hi, I'm Matheus Braz
+<div align="center">
 
-I'm a Fullstack JavaScript/TypeScript Developer with professional experience building and maintaining real-world web and mobile applications.
+# TypeScript & Full-Stack Engineer  
+### Frontend • Backend • DevOps Mindset • Clean Code
 
-I have strong experience with React and React Native, while also working on the backend using Node.js and Express, handling APIs, authentication, and database operations.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-braz-240b52266/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suehtamzarb@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://matheus-braz.vercel.app)
 
-Currently looking for remote opportunities (junior → mid-level) involving JavaScript/TypeScript, especially in React, React Native, and Node.js.
+![Open to Work](https://img.shields.io/badge/Open_to_Work-Immediately-2563EB?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Brazil_%E2%86%92_EU-7C3AED?style=for-the-badge)
 
-🧠 About Me
+</div>
 
-💻 Fullstack developer working across frontend and backend using JavaScript & TypeScript
+---
 
-⚛️ Strong experience with React and React Native, including production mobile apps used by real users
+## 🚀 Sobre mim
 
-🔗 Backend experience building and consuming REST APIs with Node.js and Express
+Sou **engenheiro Full-Stack** com foco em **TypeScript**, criando aplicações escaláveis, performáticas e bem estruturadas.  
+Tenho forte atenção a **arquitetura**, **contratos de API**, **qualidade de código** e **automação**, atuando do frontend ao backend.
 
-🔐 Familiar with authentication flows (JWT) and CRUD-based systems
+---
 
-🧩 Comfortable working with large existing codebases, fixing bugs, and improving features
+## 🧠 Habilidades Principais
 
-🌍 Experience collaborating with distributed teams through pull requests, reviews, and testing pipelines
+### 🟦 Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-🚀 Focused on writing clean, maintainable code and improving overall application quality
+---
 
-🛠 Tech Stack
-Frontend
+### 🟩 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma)
 
-React
+**Arquitetura & Design**
+- Domain-Driven Design (DDD)  
+- Integração com APIs externas  
+- Autenticação e autorização  
+- Contratos de API bem definidos  
 
-React Native
+---
 
-JavaScript (ES6+)
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-TypeScript
+- Modelagem eficiente  
+- Otimização de queries  
+- Performance e escalabilidade  
 
-Next.js (basic experience)
+---
 
-HTML5 & CSS3
+### ⚙️ DevOps & Infraestrutura
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Backend
+- Pipelines de CI/CD  
+- Versionamento e fluxo Git  
+- Ambientes Linux  
 
-Node.js
+---
 
-Express.js
+### 🧪 Práticas de Engenharia
+![Clean Code](https://img.shields.io/badge/Clean_Code-22C55E?style=for-the-badge)
+![Tests](https://img.shields.io/badge/Unit_&_Integration_Tests-2563EB?style=for-the-badge)
+![Agile](https://img.shields.io/badge/SCRUM-7C3AED?style=for-the-badge)
 
-REST APIs
+- Código limpo e sustentável  
+- Debugging e refatoração contínua  
+- Testes unitários e de integração  
+- Metodologia ágil (Scrum)  
 
-JWT Authentication
+---
 
-CRUD operations
+## 📫 Vamos conversar?
 
-Prisma ORM
+Se você busca alguém com **visão de produto**, **qualidade técnica** e **responsabilidade de ponta a ponta**,  
+me chama no LinkedIn ou dá uma olhada no meu portfólio 🚀
 
-SQL Databases (basic experience)
-
-Mobile
-
-React Native
-
-React Navigation
-
-API Integration
-
-Debugging & UI adjustments
-
-Tools & Workflow
-
-Git & GitHub
-
-Pull Requests & Code Reviews
-
-Working with existing codebases
-
-Debugging and bug fixing
-
-📫 Contact
-
-💼 LinkedIn: LinkedIn
-
-🌍 Open to remote opportunities
-
-Thanks for visiting my profile!
+---
