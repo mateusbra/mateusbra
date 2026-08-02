@@ -6,8 +6,7 @@
 
 Building scalable backend systems, AI-powered applications, and production-ready software.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://matheus-braz.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-braz-240b52266/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-braz-silva/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suehtamzarb@email.com)
 
 </div>
