@@ -1,3 +1,27 @@
+<div align="center">
+
+# Matheus Braz
+
+### Backend Engineer • AI Systems • Cloud
+
+Building scalable backend systems, AI-powered applications, and production-ready software.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://matheus-braz.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-braz-240b52266/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suehtamzarb@email.com)
+
+</div>
+
+---
+
+## 🚀 About
+
+Backend Engineer specializing in scalable APIs, cloud-native applications, and AI-powered systems.
+
+Experienced in designing modern backend architectures, integrating Large Language Models (LLMs), building intelligent automation, and developing high-performance applications with Python and TypeScript.
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -18,7 +42,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
-### AI
+### Artificial Intelligence
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-6B7280?style=for-the-badge)
@@ -32,4 +56,22 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🎯 Core Expertise
+
+- 🚀 Backend Architecture
+- 🤖 AI-Powered Applications
+- 🧠 LLM Integrations
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ⚡ REST APIs & Microservices
+- ☁️ Cloud-Native Development
+- 🐳 Containerized Deployments
+- 🔄 CI/CD Automation
+
+---
+
+> *"Building intelligent software with clean architecture, scalable systems, and practical AI."*
