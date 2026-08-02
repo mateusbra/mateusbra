@@ -1,120 +1,67 @@
 <div align="center">
 
-# Full-Stack & AI Engineer
+# Matheus Braz
 
-### Backend • AI Systems • Scalable Applications
+### Full-Stack & AI Engineer
 
+Building scalable backend systems, AI-powered applications and production-ready software.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://matheus-braz.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-braz-240b52266/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suehtamzarb@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://matheus-braz.vercel.app)
-
-![Location](https://img.shields.io/badge/Location-Brazil-7C3AED?style=for-the-badge)
 
 </div>
 
 ---
 
-# 👋 About Me
+## 🚀 About
 
-I'm a **Full-Stack Software Engineer** specializing in backend architecture, scalable APIs, and modern web applications.
+Full-Stack Engineer focused on backend architecture, AI systems and scalable applications.
 
-Artificial Intelligence is part of my daily engineering workflow. I design and build AI-powered applications, integrate Large Language Models (LLMs), automate business processes, and develop intelligent backend services that improve productivity and user experience.
-
-My engineering philosophy focuses on writing clean, maintainable, and scalable software while delivering practical solutions to real-world problems.
+Experienced in building REST APIs, AI-powered solutions, automation, and modern web platforms using Python and TypeScript.
 
 ---
 
-# 🚀 Core Technologies
+## 💻 Tech Stack
 
-## Backend
+### Languages
 
-- Python
-- TypeScript
-- Node.js
-- FastAPI
-- Express
-- REST APIs
-- Authentication & Authorization
-- API Design
-- Clean Architecture
-- Domain-Driven Design (DDD)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
----
+### Backend
 
-## Frontend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
-- React
-- Next.js
-- React Native
-- Vue.js
+### Frontend
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
-## Artificial Intelligence
+### AI
 
-- Large Language Models (LLMs)
-- OpenAI APIs
-- AI-powered Backend Systems
-- Prompt Engineering
-- Embeddings
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Semantic Search
-- AI Workflow Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-6B7280?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-2563EB?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-9333EA?style=for-the-badge)
+
+### Database & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## Databases
+## 📌 Current Focus
 
-- PostgreSQL
-- MySQL
-- MongoDB
-
-Experience with:
-
-- Database Design
-- Performance Optimization
-- Query Optimization
-- Scalable Data Models
-
----
-
-## DevOps
-
-- Git
-- GitHub Actions
-- Linux
-- CI/CD
-
----
-
-# 💡 Engineering Principles
-
-- Clean Code
-- SOLID
-- Scalable Architecture
-- Testing
-- Performance
-- Maintainability
-- Continuous Improvement
-
----
-
-# 📌 What I Build
-
-- AI-powered backend systems
-- REST APIs
-- Intelligent chatbots
-- RAG applications
-- AI workflow automation
-- Full-stack web applications
-- Developer tools
-- Internal platforms
-
----
-
-# 📫 Let's Connect
-
-I'm always interested in building scalable software, AI-powered products, and solving complex engineering challenges.
-
-Feel free to connect with me on LinkedIn or explore my projects.
+- 🤖 AI-powered applications
+- ⚡ FastAPI & Backend Architecture
+- 🧠 LLM Integrations
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🚀 Scalable APIs
